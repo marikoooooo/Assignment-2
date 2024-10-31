@@ -1,1 +1,2 @@
-Experience 1 here
+## Learning how to read and write Lao
+<p>I learnt how to read and write my mother's language when I was 7 or 8, and it was challenging because I was living in another country and my only resource was my mother and some textbooks she brought with her. I am grateful that my mother took the time to teach me her language because now I can read, write, and speak the language and I can comfortably communicate with her side of the family. However she was very strict so I would hate it as a child. I would give this experience a <strong>grade A</strong> because of how the effects of it are lasting and meaningful.</P>

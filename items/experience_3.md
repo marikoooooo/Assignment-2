@@ -1,1 +1,2 @@
-Experience 3 here
+## Learning how to code html
+<p>This is more recent, as throughout this UX220 course I have learnt so much about coding. There is still much to learn, and my favourite memory is one of the labs where we had to write about our favourite movie, because that is when I learnt how to properly use css and the coding was making sense to me. It is still a very challenging thing to learn, and I hope to put it to good use. I would give this experience a <strong>grade B</strong> because it is fun, but more challenging.

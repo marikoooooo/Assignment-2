@@ -1,1 +1,2 @@
-Experience 5 here.
+## Learning how to drive a car
+<p>Last summer, I spent 3 or 4 weeks learning how to drive a car at a driving school, and got my driver's license. It was terrible because I had to drive a manual car, and it kept stopping. My favourite memory though was when I was driving on the road with an instructor and when my car stopped, a motorcycle driver cursed at me. Despite that, I think it was a good experience because knowing how to drive is good. I would give this experience a <strong>grade B</strong> because it wasn't that fun to learn, but it is a valuable skill.

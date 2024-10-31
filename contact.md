@@ -1,1 +1,1 @@
-Contact information here
+kita0763@mylaurier.ca

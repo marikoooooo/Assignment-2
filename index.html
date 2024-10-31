@@ -3,12 +3,161 @@
 
 <head>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap"
+        rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Serif:ital,wght@0,100..900;1,100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap"
+        rel="stylesheet">
+    <style>
+        :root {
+            --main-background: rgb(201, 225, 206);
+            --main-foreground: rgb(89, 128, 100);
+            --second-foreground: rgb(36, 63, 34);
+            --pane-padding: 5px 42px;
+        }
+
+        body {
+            background-color: var(--main-background);
+            color: var(--main-foreground);
+            
+
+        }
+    
+    
+        h2 {
+            color: var(--second-foreground)
+        }
+        footer {
+            background-color: var(--second-foreground);
+            color:white
+        }
+        .barlow-thin {
+            font-family: "Barlow", sans-serif;
+            font-weight: 100;
+            font-style: normal;
+        }
+
+        .barlow-extralight {
+            font-family: "Barlow", sans-serif;
+            font-weight: 200;
+            font-style: normal;
+        }
+
+        .barlow-light {
+            font-family: "Barlow", sans-serif;
+            font-weight: 300;
+            font-style: normal;
+        }
+
+        .barlow-regular {
+            font-family: "Barlow", sans-serif;
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .barlow-medium {
+            font-family: "Barlow", sans-serif;
+            font-weight: 500;
+            font-style: normal;
+        }
+
+        .barlow-semibold,
+        h2 {
+            font-family: "Barlow", sans-serif;
+            font-weight: 600;
+            font-style: normal;
+        }
+
+        .barlow-bold,
+        h1 {
+            font-family: "Barlow", sans-serif;
+            font-weight: 700;
+            font-style: normal;
+        }
+
+        .barlow-extrabold {
+            font-family: "Barlow", sans-serif;
+            font-weight: 800;
+            font-style: normal;
+        }
+
+        .barlow-black {
+            font-family: "Barlow", sans-serif;
+            font-weight: 900;
+            font-style: normal;
+        }
+
+        .barlow-thin-italic {
+            font-family: "Barlow", sans-serif;
+            font-weight: 100;
+            font-style: italic;
+        }
+
+        .barlow-extralight-italic {
+            font-family: "Barlow", sans-serif;
+            font-weight: 200;
+            font-style: italic;
+        }
+
+        .barlow-light-italic {
+            font-family: "Barlow", sans-serif;
+            font-weight: 300;
+            font-style: italic;
+        }
+
+        .barlow-regular-italic {
+            font-family: "Barlow", sans-serif;
+            font-weight: 400;
+            font-style: italic;
+        }
+
+        .barlow-medium-italic {
+            font-family: "Barlow", sans-serif;
+            font-weight: 500;
+            font-style: italic;
+        }
+
+        .barlow-semibold-italic {
+            font-family: "Barlow", sans-serif;
+            font-weight: 600;
+            font-style: italic;
+        }
+
+        .barlow-bold-italic {
+            font-family: "Barlow", sans-serif;
+            font-weight: 700;
+            font-style: italic;
+        }
+
+        .barlow-extrabold-italic {
+            font-family: "Barlow", sans-serif;
+            font-weight: 800;
+            font-style: italic;
+        }
+
+        .barlow-black-italic {
+            font-family: "Barlow", sans-serif;
+            font-weight: 900;
+            font-style: italic;
+        }
+
+        .libre-baskerville-regular, body {
+            font-family: "Libre Baskerville", serif;
+            font-weight: 400;
+            font-style: normal;
+        }
+    </style>
 </head>
 
 <body>
     <header>
-        <nav class="navbar navbar-expand-md navbar-dark bg-dark">
-            <a class="navbar-brand" href="#">Your Name Here</a>
+        <nav class="navbar navbar-expand-md navbar-dark bg-success">
+            <a class="navbar-brand" href="#">Mariko Kitamura</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample04"
                 aria-controls="navbarsExample04" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -25,7 +174,7 @@
                 </ul>
             </div>
         </nav>
-        <h1>Assignment 2</h1>
+        <h1> Assignment 2</h1>
     </header>
     <main>
         <section><x-markdown2html src="items/experience_1.md" id="section_1"></x-markdown2html></section>
@@ -37,7 +186,7 @@
         <section><x-markdown2html src="about.md" id="about"></x-markdown2html></section>
     </main>
     <footer>
-        <p>Your name here</p>
+        <p>Mariko Kitamura</p>
     </footer>
     <script src="https://code.jquery.com/jquery-3.5.1.min.js" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"

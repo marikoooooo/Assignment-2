@@ -1,1 +1,2 @@
-Experience 2 here
+## Learning fiber arts
+<p>I was first introduced to fiber arts when I was 10, when one day I came home from school and I saw my mom crocheting a purple rose. My favourite memory is when I picked the art up and made very simple items such as "fingerless gloves" which was just one glove that was more like a wristband with a hole in it for my thumb. I also learnt knitting at some point, and I am currently learning Tunisian crochet. What I didn't enjoy about it and still don't, is how difficult it is to fix mistakes so I have to be extra careful when creating something. Despite that, I would give this experience a <strong>grade A</strong> because I still love creating things today especially clothing. </p>

@@ -1,1 +1,2 @@
-Experience 4 here
+## Using Adobe InDesign
+<p>Very recently in the last 3 weeks or so I have been learning how to use Adobe InDesign in UX211. It is a very challenging software to use, and it would probably be more effective when used in conjunction with other Adobe softwares such as Illustrator. My favourite memory is when I did an assignment where I made a website mockup. Overall I think this experience would have a <strong>grade C</strong> because it is such a difficult software to use and it has given me multiple headaches.
